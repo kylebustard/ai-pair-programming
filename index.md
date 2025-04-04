@@ -10,9 +10,11 @@ Welcome to the AI Pair Programming resource collection. Here you'll find present
 - 🔗 LinkedIn: [kylebustard](https://www.linkedin.com/in/kylebustard/)
 - 📱 Phone: [(704) 620-4602](tel:7046204602)
 
-### Connect with QR Code
+### Quick Access
 
-![LinkedIn QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://www.linkedin.com/in/kylebustard/)
+![Repository QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/kylebustard/ai-pair-programming/blob/main/index.md)
+
+_Scan to access this documentation_
 
 ## Quick Start
 
